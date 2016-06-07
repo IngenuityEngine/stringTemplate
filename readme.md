@@ -3,7 +3,7 @@
 Simple template module for Javascript and Python
 
 - turns "Sup {name}" in to "Sup Grant" using {name: 'Grant'}
-- turns "{yyyy}_{mm}_{dd}" in to "2016_06_07"
+- turns "{yyyy}-{mm}-{dd}" in to "2016-06-07"
 
 Todo:
 - [ ] move stringTemplate + tests here from coren
